@@ -33,7 +33,7 @@
 
 #### 🤝 Tech I actually reach for
 
-`Go` · `Python` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `AWS` · `LLM APIs`
+`Go` · `Python` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `AWS` · `LLM`
 
 <sub>Not 47 logos. Just the stuff I'd be fine getting paged about at 2am. I'll happily argue about database indexes longer than anyone wants.</sub>
 
@@ -52,13 +52,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashDevX&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000" alt="Top languages"/>
 </picture>
 
-<!--
-  Snake animation: one-time setup, then it auto-updates.
-  1. In this repo, create  .github/workflows/snake.yml  with the Platane/snk action
-     (copy from https://github.com/Platane/snk#-as-a-github-action).
-  2. It commits two SVGs to the `output` branch. The <picture> below renders them.
-  Until the Action runs once, this block shows nothing. That's expected.
--->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashDevX/AvinashDevX/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashDevX/AvinashDevX/output/github-contribution-grid-snake.svg">
@@ -71,8 +64,7 @@
 
 [Website](https://avinash-sharma.dev/) ·
 [GitHub](https://github.com/AvinashDevX) ·
-<!-- swap the # for real URLs, or delete the line -->
-[LinkedIn](#) ·
-[X](#)
+[LinkedIn](https://www.linkedin.com/in/the-avinash-sharma/) ·
+[X](https://x.com/imAvinashDev)
 
 <sub>Open to interesting problems, AI-shaped or otherwise. I also think agents are a little overhyped. I'm building them anyway.</sub>
